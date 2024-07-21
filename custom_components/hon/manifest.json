@@ -9,7 +9,7 @@
   "iot_class": "cloud_polling",
   "issue_tracker": "https://github.com/Andre0512/hon/issues",
   "requirements": [
-    "pyhOn==0.15.15"
+    "pyhOn @ git+https://github.com/prondzyn/pyhOn.git@1497db815c5a4e2df1be891b4a717f82afc26d51"
   ],
-  "version": "0.12.0"
+  "version": "0.12.0-bugfix.1-auth-prondzyn"
 }
